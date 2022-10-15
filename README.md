@@ -1,11 +1,11 @@
-# This is a project submitted by S. Aniruddha towards the course EE5120 Applied Linear Algebra.
+# This is a project submitted by me towards the course EE5120 Applied Linear Algebra @ IIT Madras.
 
 I have reproduced the numerical results of the following paper: 
 
-P. Fika and M. Mitrouli, “Estimation of the bilinear form y?f(A)x for Hermitian matrices”, Linear Algebra and its Applications, vol. 502, pp. 140–158, 2016.
+[P. Fika and M. Mitrouli, “Estimation of the bilinear form y?f(A)x for Hermitian matrices”, Linear Algebra and its Applications, vol. 502, pp. 140–158, 2016.](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
 
-[https://www.sciencedirect.com/science/article/pii/S002437951500511X](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
 
+## Project Report
 
 [View Report](https://htmlpreview.github.io/?raw.githubusercontent.com/s-aniruddha/EE5120-Linear-Algebra-Project/main/EP18B029_Aniruddha_EE5120_Project.html)
 
