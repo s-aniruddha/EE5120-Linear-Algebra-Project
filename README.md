@@ -1,4 +1,4 @@
-# This is a project submitted by me towards the course EE5120 Applied Linear Algebra @ IIT Madras.
+## This is a project submitted by me towards the course EE5120 Applied Linear Algebra @ IIT Madras.
 
 I have reproduced the numerical results of the following paper: 
 
