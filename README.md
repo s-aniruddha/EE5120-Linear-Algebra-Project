@@ -2,10 +2,12 @@
 
 I have reproduced the numerical results of the following paper: 
 
-P. Fika and M. Mitrouli, ìEstimation of the bilinear form y?f(A)x for Hermitian matricesî, Linear Algebra and its Applications, vol. 502, pp. 140ñ158, 2016.
+P. Fika and M. Mitrouli, ‚ÄúEstimation of the bilinear form y?f(A)x for Hermitian matrices‚Äù, Linear Algebra and its Applications, vol. 502, pp. 140‚Äì158, 2016.
 
 [https://www.sciencedirect.com/science/article/pii/S002437951500511X](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
 
+
+[View Report](https://htmlpreview.github.io/?raw.githubusercontent.com/s-aniruddha/EE5120-Linear-Algebra-Project/main/EP18B029_Aniruddha_EE5120_Project.html)
 
 ## Files:
 
