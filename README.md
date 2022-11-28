@@ -2,7 +2,7 @@
 
 I reproduced the numerical results of the following paper: 
 
-[P. Fika and M. Mitrouli, “Estimation of the bilinear form y?f(A)x for Hermitian matrices”, Linear Algebra and its Applications, vol. 502, pp. 140–158, 2016.](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
+[P. Fika and M. Mitrouli, “Estimation of the bilinear form y*f(A)x for Hermitian matrices”, Linear Algebra and its Applications, vol. 502, pp. 140–158, 2016.](https://www.sciencedirect.com/science/article/pii/S002437951500511X)
 
 
 ## Project Report
